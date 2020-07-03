@@ -1,4 +1,4 @@
-# Simple CRUD using React Hooks
+# :electric_plug: Simple CRUD using React Hooks
 
 Exemplo simples de um CRUD usando Reac Hooks. 
 
